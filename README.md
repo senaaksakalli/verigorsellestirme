@@ -1,1 +1,1 @@
-# verigorsellestirme
+# veri gorsellestirme
